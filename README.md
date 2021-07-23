@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ADS39
 - 👀 I’m interested in latest technolgy with great features
-- 🌱 I’m currently learning different library of Python to make differnt prject on Machine Learning and Data analytics 
+- 🌱 I’m currently learning different library of Python to make differnt project on Machine Learning and Data analytics 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
